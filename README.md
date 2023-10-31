@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Joe Donlan and I'm an aspiring Data Engineer and Back-end developer!
+
+You can find my ongoing projects pinned below, and download a copy of my latest CV [here](https://github.com/jdonlan91/jdonlan91/blob/main/JDonlan_DataEngineer_Oct2023.pdf).
+
 <!--
 **jdonlan91/jdonlan91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
