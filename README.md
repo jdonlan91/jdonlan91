@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Joe Donlan and I'm an aspiring Data Engineer and Back-end developer!
+My name's Joe Donlan and I'm an aspiring Data Engineer and Back-End Developer, based in York, UK!
 
 You can find my ongoing projects pinned below, and download a copy of my latest CV [here](https://github.com/jdonlan91/jdonlan91/blob/main/JDonlan_DataEngineer_Oct2023.pdf).
 
