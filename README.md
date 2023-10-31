@@ -1,6 +1,14 @@
 ### Hi there 👋
 
-My name's Joe Donlan and I'm an aspiring Data Engineer and Back-End Developer, based in York, UK!
+My name's Joe Donlan and I'm an aspiring Data Engineer based in York, UK!
+
+A PhD-trained scientist and experienced technical communicator, I’m kick-starting a new career in data
+engineering. I’ve long been fascinated by systems and how they are designed, and I’ve seen up-close the
+immense value that data can provide to businesses when it is used to its full potential. Data engineering
+neatly combines both of these interests, a realisation which motivated me to switch careers in 2023.
+The Data Engineering bootcamp at Northcoders has equipped me with strong technical foundations to
+complement my expert communication and analytical skills, and I’m excited to start applying these skills
+in my first role!
 
 You can find my ongoing projects pinned below, and download a copy of my latest CV [here](https://github.com/jdonlan91/jdonlan91/blob/main/JDonlan_DataEngineer_Oct2023.pdf).
 
